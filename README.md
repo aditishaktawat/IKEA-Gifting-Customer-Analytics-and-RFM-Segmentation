@@ -43,7 +43,7 @@ The full requirements are in the [Business Requirements Document](docs/IKEA_Gift
 
 ## Key Findings
 - *Champions* represent roughly 22% of the customer base but generate close to 68% of total revenue, a strong revenue concentration.
-- Overall churn sits at **50.86% **(90 day inactivity threshold), indicating retention is a significant, not marginal, business risk.
+- Overall churn sits at **50.86%** (90 day inactivity threshold), indicating retention is a significant, not marginal, business risk.
 - Average customer value varies sharply by segment, from a few hundred for *Lost* customers to several thousand for *Champions*.
 - Revenue shows clear seasonal spikes in **Q4**, which starts rising from **September**. This is consistent with a gifting focused product category.
 - The *UK* accounts for 5,353 customers (91%) and about $14.4M (83%) of revenue.
